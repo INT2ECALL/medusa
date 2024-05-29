@@ -9,11 +9,11 @@
     "build": "babel src -d dist --extensions \".ts,.js\""
   },
   "dependencies": {
-    "@medusajs/medusa": "*",
+    "@medusajs/medusa": "0.1.16",
     "faker": "^5.5.3",
-    "medusa-fulfillment-webshipper": "*",
-    "medusa-interfaces": "*",
-    "medusa-plugin-sendgrid": "*",
+    "medusa-fulfillment-webshipper": "1.0.1",
+    "medusa-interfaces": "0.1.16",
+    "medusa-plugin-sendgrid": "1.0.0",
     "typeorm": "^0.2.31"
   },
   "devDependencies": {
