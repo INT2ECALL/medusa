@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "latest",
-    "@docusaurus/preset-classic": "latest",
+    "@docusaurus/preset-classic": "3.5.0",
     "@docusaurus/remark-plugin-npm2yarn": "latest",
     "@svgr/webpack": "6.2.1",
     "algoliasearch-helper": "^3.11.3",
