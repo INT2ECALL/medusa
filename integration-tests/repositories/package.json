@@ -8,9 +8,9 @@
     "test": "jest --silent=false --runInBand --bail --detectOpenHandles --forceExit"
   },
   "dependencies": {
-    "@medusajs/medusa": "*",
-    "medusa-interfaces": "*",
-    "typeorm": "^0.2.31"
+    "@medusajs/medusa": "0.1.16",
+    "medusa-interfaces": "0.1.16",
+    "typeorm": "^0.3.26"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
