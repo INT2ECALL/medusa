@@ -22,7 +22,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "lodash": "^4.17.21",
-    "medusa-core-utils": "^1.1.39",
+    "medusa-core-utils": "^0.1.16",
     "meilisearch": "0.27.0"
   },
   "devDependencies": {
