@@ -51,7 +51,7 @@
     "inquirer": "^8.0.0",
     "is-valid-path": "^0.1.1",
     "meant": "^1.0.3",
-    "medusa-core-utils": "^1.1.39",
+    "medusa-core-utils": "^0.1.16",
     "medusa-telemetry": "0.0.16",
     "netrc-parser": "^3.1.6",
     "open": "^8.0.6",
